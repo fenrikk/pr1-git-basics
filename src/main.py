@@ -1,6 +1,6 @@
 print("Hello, World!")
 
-def sum(a: int, b: int) -> int:
+def sum_two_numbers(a: int, b: int) -> int:
     return a + b
 
-print(sum(1, 2))
+print(sum_two_numbers(1, 2))
